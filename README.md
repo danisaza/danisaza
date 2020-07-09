@@ -1,8 +1,8 @@
 ### Hi there! I'm Dan. 👋🏽
 
-My name is Dan.
-
 I write full-stack software for the web. I like math, statistics, and devops.
+
+I'm currently the VP of Engineering at [Clever Real Estate](https://listwithclever.com/). I studied Math & CS at Stanford.
 
 
 <!--
