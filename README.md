@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! I'm Dan. 👋🏽
+
+My name is Dan.
+
+I write full-stack software for the web. I like math, statistics, and devops.
+
 
 <!--
 **danisaza/danisaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
