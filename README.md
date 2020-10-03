@@ -4,6 +4,8 @@ I write full-stack software for the web. I like Django, skiing, and modular synt
 
 I'm currently a software engineer at BetterOmics. I studied Math & CS at Stanford.
 
+----
+
 **Please Note:**
 
 The company I currently work for uses GitLab, not GitHub. If I appear to be inactive, it's because I'm using GitLab as my day-to-day tool right now. 😉
