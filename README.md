@@ -2,7 +2,7 @@
 
 I write full-stack software for the web. I like Django, skiing, and modular synthesizers.
 
-I'm currently the VP of Engineering at [Clever Real Estate](https://listwithclever.com/). I studied Math & CS at Stanford.
+I'm currently a software engineer at BetterOmics. I studied Math & CS at Stanford.
 
 
 <!--
