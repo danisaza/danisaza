@@ -10,7 +10,7 @@ I studied Math & CS at Stanford.
 
 **Please Note:**
 
-The company I currently work for uses GitLab, not GitHub. If I appear to be inactive, it's because I'm using GitLab as my day-to-day tool right now. 😉
+The company I currently work for uses GitLab, not GitHub. If my contribution history appears inactive, it's because I'm using GitLab as my day-to-day tool right now. 😉
 
 
 <!--
