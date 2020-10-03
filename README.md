@@ -2,7 +2,9 @@
 
 I write full-stack software for the web. I like React, Python, skiing, and modular synthesizers.
 
-I'm currently a software engineer at BetterOmics. I studied Math & CS at Stanford.
+I'm currently a software engineer at BetterOmics. We're working to accelerate life sciences product development by providing rigorous, validated, and scalable data collection and data analysis software products.
+
+I studied Math & CS at Stanford.
 
 ----
 
