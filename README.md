@@ -1,6 +1,6 @@
 ### Hi there! I'm Dan 👋🏽
 
-I write full-stack software for the web. I like Django, skiing, and modular synthesizers.
+I write full-stack software for the web. I like React, Python, skiing, and modular synthesizers.
 
 I'm currently a software engineer at BetterOmics. I studied Math & CS at Stanford.
 
