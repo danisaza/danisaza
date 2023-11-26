@@ -1,16 +1,12 @@
 ### Hi there! I'm Dan 👋🏽
 
-I write full-stack software for the web. I like React, Python, skiing, and modular synthesizers.
+I write full-stack software for the web. I like building on the web, mountain sports, and reading.
 
-I'm currently a software engineer at [Betteromics](https://betteromics.com/). We're working to accelerate life sciences product development by providing rigorous, validated, and scalable data collection and data analysis software products.
+I'm currently a software engineer at Microsoft.
 
 I studied Math & CS at Stanford.
 
-----
-
-**Please Note:**
-
-The company I currently work for uses GitLab, not GitHub. If my contribution history appears inactive, it's because I'm using GitLab as my day-to-day tool right now. 😉
+You can check out my [website/blog](https://www.isaza.dev/) and read my [career story](https://www.isaza.dev/career).
 
 
 <!--
