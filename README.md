@@ -6,7 +6,7 @@ I'm currently a software engineer at Microsoft.
 
 I studied Math & CS at Stanford.
 
-You can check out my [website/blog](https://www.isaza.dev/) and read my [career story](https://www.isaza.dev/career).
+You can check out my [website/blog](https://www.isaza.dev/) and read my interactive [career story](https://www.isaza.dev/career).
 
 
 <!--
