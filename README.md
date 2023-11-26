@@ -1,6 +1,6 @@
 ### Hi there! I'm Dan 👋🏽
 
-I write full-stack software for the web. I like building on the web, mountain sports, and reading.
+I write full-stack software for the web. I like coding, mountain sports, and reading.
 
 I'm currently a software engineer at Microsoft.
 
