@@ -1,4 +1,4 @@
-### Hi there! I'm Dan 👋🏽
+### Hi there! I'm Dan 👋
 
 I write full-stack software for the web. I like coding, mountain sports, and reading.
 
