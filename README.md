@@ -2,8 +2,6 @@
 
 I write full-stack software for the web. I like coding, mountain sports, and reading.
 
-I'm currently a software engineer at Microsoft.
-
 I studied applied math at Stanford.
 
 You can check out my [website/blog](https://www.isaza.dev/) and read my interactive [career story](https://www.isaza.dev/career).
